@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "projet15Http"
+    }
+  },
+  "defaultProject": "projet15Http",
+  "cli": {
+    "analytics": false
+  }
 }
